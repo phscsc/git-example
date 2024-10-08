@@ -3,3 +3,4 @@
 
 ## Our members:
 Matthew Lundeen: decentishdev
+Ethan Kim: ethankimmmmm

@@ -7,3 +7,8 @@ MONKEY MONKEY MONKEY MONKEY
 
 # Name : Sharul Shah
 ## Username : Immortal215
+
+```python 
+for i in range(3):
+    print("you are a monkey")
+```

@@ -3,3 +3,5 @@
 
 ## Our members:
 Matthew Lundeen: decentishdev
+Christopher Pawlak: ToeFurMan
+
